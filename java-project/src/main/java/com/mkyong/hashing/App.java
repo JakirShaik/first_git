@@ -17,9 +17,9 @@ public class App
     	System.out.println("This method added by Developer 1");
     }
     public void method2() {
-    	int i = 0;
-    	for(;i<=10; i++) {
-    		System.out.println(i);
+    	int j = 0;
+    	for(;j<=10; j++) {
+    		System.out.println(j);
     	}
     }
 }
